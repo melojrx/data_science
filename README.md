@@ -4,7 +4,7 @@
 </p>
 
 # Melo Jr
-<sub>*Lead Data Scientist* and Economist </sub>
+<sub>Data Scientist and Economist </sub>
 
 
 **Background in:** Python, Machine Learning.
