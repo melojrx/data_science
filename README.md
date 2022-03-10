@@ -18,5 +18,5 @@
 
 ## Projetos:
 
-* Análise dos Dados do Airbnb - Toronto. Canadá - (https://colab.research.google.com/drive/1c2snBaSk-5rYzZju-i1pOF1eebLGnzcB?usp=sharing)
+* Análise dos Dados do Airbnb - Toronto. Canadá - https://bit.ly/3MC2iBX
 
