@@ -4,10 +4,10 @@
 </p>
 
 # Melo Jr
-<sub>Data Scientist and Economist </sub>
+<sub>Data Science Student, Python, Economist, Systems Analyst</sub>
 
 
-**Background in:** Python, Machine Learning.
+**Background in:** Python, Machine Learning, Web Developer. 
 
 **Links:**
 
@@ -19,4 +19,6 @@
 ## Projetos:
 
 * Análise de Dados do Airbnb - Toronto. Canadá - https://bit.ly/3tEuPQ4
+* Como criar uma WordCloud em Python fazendo Webscraping de página da COVID-19 na Wikipédia - https://medium.com/@jrmeloafrf/como-criar-uma-wordcloud-em-python-57d90b51120e
+
 
